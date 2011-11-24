@@ -1,0 +1,7 @@
+---
+layout: post
+title: "New Test"
+date: 2011-11-24 22:24
+comments: true
+categories: 
+---
